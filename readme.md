@@ -1,6 +1,7 @@
 # Gnome Shell 3 Helper
 
-Python script for initialize, compile and deploy Gnome Shell 3 themes.
+Python script for initialize, compile and deploy Gnome Shell 3 themes. In
+response to thread: https://ubuntuforums.org/showthread.php?t=2441766
 
 Tested on Ubuntu 20.04.
 
