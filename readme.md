@@ -68,6 +68,10 @@ Value: /usr/local/share/gnome-shell/theme/CustomLoginColour.gresource
 ...
 ```
 
+Example result:
+
+![Example](example.jpg)
+
 For uninstall:
 
 ```bash
